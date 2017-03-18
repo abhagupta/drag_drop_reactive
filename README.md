@@ -26,3 +26,6 @@ Click on drag_drop.html to load the page.
 
 Drag the grey sqaure on top left corner and drag it to the drop areas . You will notice the color change of drop areas from blue to yellow as you drop the sqaure on the drop areas.
 They will convert back into blue when you drag the square to another drop area.
+
+### A demo
+![alt demo](drag_drop.gif)
